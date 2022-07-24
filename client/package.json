@@ -9,7 +9,7 @@
 		"build": "webpack --mode production",
 		"start": "webpack --watch"
 	},
-	"author": "2U",
+	"author": "2222",
 	"license": "UNLICENSED",
 	"devDependencies": {
 		"@babel/core": "^7.15.0",
